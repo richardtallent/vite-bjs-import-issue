@@ -9,10 +9,11 @@
   "dependencies": {
     "@babylonjs/core": "^4.2.0",
     "babylonjs-procedural-textures": "^4.2.0",
-    "vue": "^3.0.2"
+    "vue": "^3.0.3"
   },
   "devDependencies": {
-    "vite": "^1.0.0-rc.8",
-    "@vue/compiler-sfc": "^3.0.2"
+    "@vue/compiler-sfc": "^3.0.3",
+    "prettier": "^2.2.1",
+    "vite": "^1.0.0-rc.13"
   }
 }
